@@ -1,19 +1,22 @@
 <div id="title" align=center>
 
 
+
 [![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-%E7%88%B1%E6%AF%95%E8%AE%BE%E5%AE%98%E7%BD%91-yello)](http://jsxs1.cn)
 
 ![Visitor Count](https://profile-counter.glitch.me/hjsdjko/count.svg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=hjsdjko
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjsdjko&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjsdjko&show_icons=true&theme=tokyonight)](http://jsxs1.cn)
 
 </div>
 
 点击此网址在线查看本项目视频： [http://www.jsxs1.cn](http://www.jsxs1.cn)
 
-联系 **【QQ 979748385 】** 回复项目编号即可获取！！！
+**【🉑免费获取！！！】**
+
+完整源码联系 **人工客服24小时**全天在线 **【QQ 979748385 】** 回复项目编号即可获取！！！
 
 ---
 
@@ -25,7 +28,7 @@
 
 ![82e41f4df65c7c819ec690fd60bcaca](https://github.com/user-attachments/assets/e035d080-b35d-4137-8967-88d1b58ecaad)
 
-> **关注微信公众号【爱毕设】或添加QQ 【979748385】，可免费获取完整代码**
+> **关注微信公众号【爱毕设】或添加QQ 【979748385】，可获取完整代码**
 
 1. 关注微信公众号 《爱毕设》输入项目编码即可！！！
 
@@ -53,4 +56,4 @@
 
 4、在IDEA中运行
 
-5、打开浏览器，参考<说明文档.txt>中的地址
+5、打开浏览器，参考<说明文档.txt>中的地址![image](https://github.com/user-attachments/assets/024f6649-5f4b-4e2c-9dd3-5ae1574ca3e8)
